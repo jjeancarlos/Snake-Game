@@ -28,7 +28,7 @@ pré-instalados em celulares Nokia. Movimento em grade, sem física, visual mini
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/jjeancarlos/Snake-Game.git
    ```
 
 2. **Abra o Unity Hub** e clique em **Add** > **Add project from disk**, selecionando
